@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Runze Gu and I'm a senior undergraduate student from [College of Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm), [Tongji University](https://www.tongji.edu.cn/eng/). Also, I am in the [GLOBE visiting students program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley.
+My name is Runze Gu and I'm a senior undergraduate student from [College of Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm), [Tongji University](https://www.tongji.edu.cn/eng/). Also, I am in the [GLOBE visiting students program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley. I got 4.00/4.00 at Berkeley together with 2 A+ course (CIVENG C30: Introduction to Solid Mechanics & CIVENG 120: Structural Engineering) and A in the famous [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp24/).
 
-My research interests focus on leveraging artificial intelligence tools, such as computer vision, alongside sustainable development strategies within civil engineering. I plan to continue my studies and further explore this field.
+My research interests focus on leveraging artificial intelligence tools, such as computer vision, alongside sustainable development strategies within civil engineering. I plan to continue my studies and further explore this field. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I have good command of English. I got 104 in TOEFL and scored 322+3.5 in GRE with 169 in the quantitative part. During my stay at Berkeley, I enjoyed studying and living in California. 
+
 
 A data-driven personal website
 ======
