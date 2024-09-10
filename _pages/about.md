@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "About me👀"
+title: "Runze GU"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Runze Gu and I'm a senior undergraduate student from [College of Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm), [Tongji University](https://www.tongji.edu.cn/eng/). Also, I am in the [GLOBE visiting students program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley. I got 4.00/4.00 at Berkeley together with 2 A+ course (CIVENG C30: Introduction to Solid Mechanics & CIVENG 120: Structural Engineering) and A in the famous [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp24/).
+My name is Runze Gu and I'm a senior undergraduate student from [College of Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm), [Tongji University](https://www.tongji.edu.cn/eng/). Also, I am in the [GLOBE visiting students program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley. I’m proud to say I aced my semester at Berkeley with a perfect 4.00 GPA, scoring A+ in CIVENG C30 (Introduction to Solid Mechanics) and CIVENG 120 (Structural Engineering), and an A in the famous [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp24/).
 
-My research interests focus on leveraging artificial intelligence tools, such as computer vision, alongside sustainable development strategies within civil engineering. I plan to continue my studies and further explore this field. 
+I’m passionate about combining artificial intelligence—especially computer vision—with sustainable development in civil engineering. I’m excited to keep diving deeper into this field as I continue my studies.
 
-I have good command of English. I got 104 in TOEFL and scored 322+3.5 in GRE with 169 in the quantitative part. During my stay at Berkeley, I enjoyed studying and living in California. 
+Fun fact: I’m pretty good at English! I scored 104 on TOEFL and 322+3.5 on GRE, with a solid 169 in the quantitative section. Studying and living in California has been an incredible experience—I loved every minute of it!
 
 
 A data-driven personal website
