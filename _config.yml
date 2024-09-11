@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "cal.png"
-  name             : "Runze Gu (辜润泽)"
+  name             : "Runze Gu"
   pronouns         : "he/his/him"  
   bio              : "Civil Engineering graduate aspiring to pursue graduate studies"
   location         : "Shanghai, China"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
