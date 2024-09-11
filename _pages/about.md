@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Runze GU"
+title: "Runze GU (辜润泽)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Runze Gu and I received my undergraduate education at the [College of Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm), [Tongji University](https://www.tongji.edu.cn/eng/). Also, I am in the [GLOBE visiting students program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley. I’m proud to say I aced my semester at Berkeley with a perfect 4.00 GPA, scoring A+ in CIVENG C30 (Introduction to Solid Mechanics) and CIVENG 120 (Structural Engineering), and an A in the famous [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp24/).
 
-I’m passionate about combining artificial intelligence—especially computer vision—with sustainable development in civil engineering. I’m excited to keep diving deeper into this field as I continue my studies. You can find my CV here: [Runze Gu's Curriculum Vitae](../assets/RunzeGu_CV.pdf)
+I’m passionate about combining artificial intelligence—especially computer vision—with sustainable development in civil engineering. I’m excited to keep diving deeper into this field as I continue my studies. You can find my CV here: [Runze Gu's Curriculum Vitae](../assets/RunzeGu_CV.pdf).
 
 Fun fact: I’m pretty good at English! I scored 104 on TOEFL and 322+3.5 on GRE, with a solid 169 in the quantitative section. Studying and living in California has been an incredible experience—I loved every minute of it!
 
