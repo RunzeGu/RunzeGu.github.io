@@ -13,6 +13,8 @@ I’m passionate about combining artificial intelligence—especially computer v
 
 Fun fact: I’m pretty good at English! I scored 104 on TOEFL and 322+3.5 on GRE, with a solid 169 in the quantitative section. Studying and living in California has been an incredible experience—I loved every minute of it!
 
+You're welcome to add my [WeChat](../assets/WeChat.png) for further information.
+
 
 A data-driven personal website
 ======
