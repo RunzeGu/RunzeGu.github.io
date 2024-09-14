@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* UC Berkeley GLOBE visiting students program, 2024
+  * GPA: 4.00/4.00 (earned A+ in 2 out of 4 courses)
+* B.S. in Civil Engineering, Tongji University, 2024
+  * GPA: 4.49/5.00 (equivalent to 89.89 on a 100-point scale)
+  * Outstanding Student Scholarship Winner (3 times)
+* Participant in the 14th Korea Advanced Institute of Science and Technology (KAIST)-Tongji Summer School, 2023
+
+
 
 Work experience
 ======
