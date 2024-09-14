@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Your are welcome to check and download the detailed [PDF version](../assets/RunzeGu_CV.pdf) of my CV."
+title: "Runze Gu's Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+Your are welcome to check and download the detailed [PDF version](../assets/RunzeGu_CV.pdf) of my CV.
 
 Education
 ======
