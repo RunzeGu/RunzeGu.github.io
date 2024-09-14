@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Your are welcome to check and download the detailed [PDF version](../assets/RunzeGu_CV.pdf) of my CV.
+======
+
 Education
 ======
 * UC Berkeley GLOBE visiting students program, 2024
