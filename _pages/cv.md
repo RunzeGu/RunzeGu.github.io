@@ -14,9 +14,9 @@ Your are welcome to check and download the detailed [PDF version](../assets/Runz
 Education
 ======
 * UC Berkeley GLOBE visiting students program, 2024
-  * GPA: 4.00/4.00 (earned A+ in 2 out of 4 courses)
+  * GPA: 4.00/4.00 (earned A+ in 2 out of 4 selected courses)
 * B.S. in Civil Engineering, Tongji University, 2024
-  * GPA: 4.49/5.00 (equivalent to 89.89 on a 100-point scale)
+  * GPA: 4.49/5.00 (equivalent to 89.89/100)
   * Outstanding Student Scholarship Winner (3 times)
 * Participant in the 14th Korea Advanced Institute of Science and Technology (KAIST)-Tongji Summer School, 2023
 
@@ -39,14 +39,10 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Proficiency and Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Standardized Tests: TOEFL: 104 (R28 + L28 + S23 + W25); GRE: V153 + Q169 + AW3.5
+* Programming and Computer Skills: Proficient in Python, Scheme, AutoCAD, Revit, MATLAB and computer vision algorithms
 
 Publications
 ======
@@ -68,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Scholarship for Social Work, 2021
