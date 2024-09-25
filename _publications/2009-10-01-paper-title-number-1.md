@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Nighttime vehicle detection algorithm based on image translation technology"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Nighttime vehicle detection
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2024-02-14
+venue: 'Journal of Intelligent & Fuzzy Systems'
+websiteurl: 'https://doi.org/10.3233/JIFS-233899'
+paperurl: 'https://github.com/RunzeGu/RunzeGu.github.io/blob/master/assets/paper.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
