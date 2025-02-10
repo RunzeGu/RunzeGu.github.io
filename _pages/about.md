@@ -58,4 +58,4 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 <div id="map-widget"></div>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5gQcQ46esesHp9ppKs_29DbxCs2S9oc9tv9cxOutb4E&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=5gQcQ46esesHp9ppKs_29DbxCs2S9oc9tv9cxOutb4E&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
