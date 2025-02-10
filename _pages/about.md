@@ -56,6 +56,7 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
+Pageviews since Feb 10th 2025↓
 <div id="map-widget"></div>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=5gQcQ46esesHp9ppKs_29DbxCs2S9oc9tv9cxOutb4E&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
