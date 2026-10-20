@@ -1,62 +1,55 @@
 ---
 permalink: /
-title: "Runze GU (辜润泽)"
+title: "Runze Gu (辜润泽)"
 author_profile: true
-redirect_from: 
+description: "Ph.D. student in Civil Engineering at The University of Texas at Austin."
+redirect_from:
   - /about/
   - /about.html
 ---
 
-My name is Runze Gu and I received my undergraduate education at the [College of Civil Engineering](https://civileng.tongji.edu.cn/civilengen/main.htm), [Tongji University](https://www.tongji.edu.cn/eng/). Also, I am in the [GLOBE visiting students program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley. I’m proud to say I aced my semester at Berkeley with a perfect 4.00 GPA, scoring A+ in CIVENG C30 (Introduction to Solid Mechanics) and CIVENG 120 (Structural Engineering), and an A in the famous [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp24/).
+<p class="profile-kicker">Civil engineering · Artificial intelligence · Infrastructure resilience</p>
 
-I’m passionate about combining artificial intelligence—especially computer vision—with sustainable development in civil engineering. I’m excited to keep diving deeper into this field as I continue my studies. You can find my CV here: [Runze Gu's Curriculum Vitae](../assets/RunzeGu_CV.pdf).
+I am a **Ph.D. student in Civil Engineering** and a Graduate Research Assistant at [The University of Texas at Austin](https://www.utexas.edu/). I work with [Prof. Salvatore Salamone](https://caee.utexas.edu/person/salvatore-salamone/) in the [Smart Structures Research Laboratory (SSRL)](https://sites.google.com/view/ssrg), within the Department of Civil, Architectural and Environmental Engineering.
 
-Fun fact: I’m pretty good at English! I scored 104 on TOEFL and 322+3.5 on GRE, with a solid 169 in the quantitative section. Studying and living in California has been an incredible experience—I loved every minute of it!
+I am interested in applying **artificial intelligence, computer vision, and computational methods** to problems in civil engineering. My background spans visual perception, structural resilience assessment, and sustainable construction materials.
 
-You're welcome to add my [WeChat](../assets/WeChat.png) for further information.
+I received my bachelor's degree in Civil Engineering from [Tongji University](https://www.tongji.edu.cn/eng/) in 2024. During my undergraduate studies, I joined the [Berkeley GLOBE Engineering Visiting Student Program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley, where I completed coursework in structural engineering, solid mechanics, and computer science.
 
+<p class="profile-actions"><a class="btn btn--primary" href="{{ '/experience/' | relative_url }}">Experience</a> <a class="btn btn--inverse" href="{{ '/assets/RunzeGu_CV.pdf' | relative_url }}">Download CV</a> <a class="profile-contact" href="mailto:runze@utexas.edu">runze@utexas.edu</a></p>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Interests
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<div class="research-grid">
+  <section class="research-card">
+    <h3>AI for civil engineering</h3>
+    <p>Connecting data-driven methods with engineering knowledge to understand the built environment.</p>
+  </section>
+  <section class="research-card">
+    <h3>Computer vision</h3>
+    <p>Image-based recognition and segmentation for civil infrastructure and robotic perception.</p>
+  </section>
+  <section class="research-card">
+    <h3>Structural resilience</h3>
+    <p>Computational assessment of structural performance, disaster impacts, and resilient infrastructure.</p>
+  </section>
+</div>
 
+## Education {#education}
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **The University of Texas at Austin** — Ph.D. student, Civil Engineering; Graduate Research Assistant.
+- **University of California, Berkeley** — GLOBE Engineering Visiting Student Program, January–May 2024. GPA: 4.00/4.00.
+- **Tongji University** — Bachelor's degree in Civil Engineering, September 2020–July 2024.
 
-News
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Earlier experience
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+My earlier work includes research on cement-waste reactivation at **UC Berkeley**, satellite-image-based seismic resilience assessment at **Tongji University**, and weld-joint segmentation for robotic welding at **North Carolina State University**.
 
-**Markdown generator**
+[Explore my background →]({{ '/experience/' | relative_url }})
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Contact
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+For academic inquiries, please email [runze@utexas.edu](mailto:runze@utexas.edu). You can also find me on [GitHub](https://github.com/RunzeGu) and [LinkedIn](https://www.linkedin.com/in/runzegu/).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
-Pageviews since Feb 10th 2025↓
 <div id="map-widget"></div>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=5gQcQ46esesHp9ppKs_29DbxCs2S9oc9tv9cxOutb4E&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=a&amp;t=tt&amp;d=5gQcQ46esesHp9ppKs_29DbxCs2S9oc9tv9cxOutb4E&amp;co=2d78ad&amp;cmo=3acc3a&amp;cmn=ff5353&amp;ct=ffffff"></script>
