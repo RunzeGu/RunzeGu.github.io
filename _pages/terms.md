@@ -1,39 +1,18 @@
 ---
+layout: single
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "Privacy"
+author_profile: true
 ---
 
-{% include base_path %}
-{% include toc %}
+This is Runze Gu's academic website. It is hosted on GitHub Pages and does not provide a website account or login system. Comments are disabled.
 
-## Privacy Policy
+## Hosting and third-party resources
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+GitHub serves the pages and files on this site. Please see the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) for information about its handling of visitor data.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Pages load scripts from cdnjs and jsDelivr for browser compatibility and mathematical notation. The homepage also embeds a visitor-map widget from [ClustrMaps](https://clustrmaps.com/). Loading these resources sends requests from your browser to their providers. Their handling of request data, cookies, or local storage is governed by their own policies. Google Analytics and third-party comment providers are not enabled in this site's configuration.
 
-### Log Files
+## Contact
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+If you email me, the information you send is used to respond to your inquiry. For questions about this website, contact [runze@utexas.edu](mailto:runze@utexas.edu).

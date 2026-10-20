@@ -1,67 +1,66 @@
 ---
-layout: archive
-title: "Runze Gu's Curriculum Vitae"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+[Download PDF]({{ '/assets/RunzeGu_CV.pdf' | relative_url }}) · [Email](mailto:runze@utexas.edu) · [LinkedIn](https://www.linkedin.com/in/runzegu/)
 
-Your are welcome to check and download the detailed [PDF version](../assets/RunzeGu_CV.pdf) of my CV.
+## Education
 
-Education
-======
-* UC Berkeley GLOBE visiting students program, 2024
-  * GPA: 4.00/4.00 (earned A+ in 2 out of 4 selected courses)
-* B.S. in Civil Engineering, Tongji University, 2024
-  * GPA: 4.49/5.00 (equivalent to 89.89/100)
-  * Outstanding Student Scholarship Winner (3 times)
-* Participant in the 14th Korea Advanced Institute of Science and Technology (KAIST)-Tongji Summer School, 2023
+**The University of Texas at Austin**<br>
+Ph.D. student in Civil Engineering; Graduate Research Assistant.<br>
+Advisor: Prof. Salvatore Salamone, Smart Structures Research Laboratory.
 
+**University of California, Berkeley** — January–May 2024<br>
+GLOBE Engineering Visiting Student Program. GPA: 4.00/4.00.
 
+**Tongji University** — September 2020–July 2024<br>
+Bachelor's degree in Civil Engineering. Overall grade: 89.89/100.<br>
+Outstanding Student Scholarship, three awards.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Graduate Research Assistant — UT Austin**<br>
+Smart Structures Research Laboratory, Department of Civil, Architectural and Environmental Engineering. Advisor: Prof. Salvatore Salamone.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Proficiency and Skills
-======
-* Standardized Tests: TOEFL: 104 (R28 + L28 + S23 + W25); GRE: V153 + Q169 + AW3.5
-* Programming and Computer Skills: Proficient in Python, Scheme, AutoCAD, Revit, MATLAB and computer vision algorithms
+**Sustainable cement materials — UC Berkeley, March–May 2024**<br>
+Advisor: Prof. Shaofan Li. Thermal reactivation of cement waste; heating-chamber development, sample preparation, and organization of materials for characterization.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Scholarship for Social Work, 2021
+**Computer vision for seismic resilience assessment — Tongji University, January–July 2024**<br>
+Advisor: Prof. Ying Zhou. Mask R-CNN-based building-damage assessment from satellite imagery for regional seismic resilience analysis.
+
+**Weld-joint detection for robotic welding — North Carolina State University, July–August 2023**<br>
+Advisors: Prof. Kevin Han and Dr. Doyun Lee. Image annotation and U-Net-based weld-joint segmentation.
+
+**Nighttime vehicle detection — Tongji University, March 2022–December 2023**<br>
+Advisor: Prof. Chao Liu. CycleGAN-based image translation and YOLOv5-based detection for low-light traffic imagery.
+
+## Professional experience and service
+
+**College of Civil Engineering, Tongji University** — September 2024–May 2025<br>
+Core Officer, Department of International Activities and Student Affairs.
+
+**Vibration assessment and isolation design** — September–December 2024<br>
+Structural modeling and vibration assessment with ETABS for a transit-oriented development project.
+
+**China Coal Xi'an Design Engineering Co., Ltd.** — Summers 2022 and 2023<br>
+Construction supervision and inspection, including site documentation for metro infrastructure.
+
+## Honors
+
+- Cockrell School of Engineering fellowship recipient, UT Austin.
+- First-Class Outstanding Student Scholarship, Tongji University, 2022 and 2023.
+- Second-Class Outstanding Student Scholarship, Tongji University, 2021.
+- First Prize, “Sinopharm Cup” Chemistry Competition.
+- Scholarship for Social Work, 2021.
+
+## Technical skills
+
+- **Programming:** Python, MATLAB, Scheme.
+- **Methods:** computer vision, machine learning, and structural analysis.
+- **Engineering software:** ETABS, AutoCAD, and Revit.
