@@ -39,9 +39,7 @@ My work focuses on **structural health monitoring (SHM)**, advancing intelligenc
 
 ## Earlier experience
 
-My earlier work includes research on cement-waste reactivation at **UC Berkeley**, satellite-image-based seismic resilience assessment at **Tongji University**, and weld-joint segmentation for robotic welding at **North Carolina State University**.
-
-[Explore my background →]({{ '/experience/' | relative_url }})
+My earlier explorations included cement-waste reactivation at **UC Berkeley** and basic applications of computer vision to civil engineering at **Tongji University** and **North Carolina State University**.
 
 ## Contact
 
