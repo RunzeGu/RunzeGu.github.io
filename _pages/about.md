@@ -8,30 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-<p class="profile-kicker">Civil engineering · Artificial intelligence · Infrastructure resilience</p>
+<p class="profile-kicker">Structural health monitoring · Intelligent infrastructure · Resilience</p>
 
-I am a **Ph.D. student in Civil Engineering** and a Graduate Research Assistant at [The University of Texas at Austin](https://www.utexas.edu/). I work with [Prof. Salvatore Salamone](https://caee.utexas.edu/person/salvatore-salamone/) in the [Smart Structures Research Laboratory (SSRL)](https://sites.google.com/view/ssrg), within the Department of Civil, Architectural and Environmental Engineering.
+I am a **Ph.D. student in Civil Engineering** at [The University of Texas at Austin](https://www.utexas.edu/), working with [Prof. Salvatore Salamone](https://caee.utexas.edu/person/salvatore-salamone/) in the [Smart Structures Research Laboratory](https://sites.google.com/view/ssrg).
 
-I am interested in applying **artificial intelligence, computer vision, and computational methods** to problems in civil engineering. My background spans visual perception, structural resilience assessment, and sustainable construction materials.
+My work focuses on **structural health monitoring (SHM)**, advancing intelligence and resilience in civil infrastructure through sensing and data-informed engineering.
 
-I received my bachelor's degree in Civil Engineering from [Tongji University](https://www.tongji.edu.cn/eng/) in 2024. During my undergraduate studies, I joined the [Berkeley GLOBE Engineering Visiting Student Program](https://globe.berkeley.edu/visiting-students/) at UC Berkeley, where I completed coursework in structural engineering, solid mechanics, and computer science.
-
-<p class="profile-actions"><a class="btn btn--primary" href="{{ '/experience/' | relative_url }}">Experience</a> <a class="btn btn--inverse" href="{{ '/assets/RunzeGu_CV.pdf' | relative_url }}">Download CV</a> <a class="profile-contact" href="mailto:runze@utexas.edu">runze@utexas.edu</a></p>
-
-## Interests
+## Focus
 
 <div class="research-grid">
   <section class="research-card">
-    <h3>AI for civil engineering</h3>
-    <p>Connecting data-driven methods with engineering knowledge to understand the built environment.</p>
+    <h3>Structural health monitoring</h3>
+    <p>Using sensing and measurements to understand structural condition and performance.</p>
   </section>
   <section class="research-card">
-    <h3>Computer vision</h3>
-    <p>Image-based recognition and segmentation for civil infrastructure and robotic perception.</p>
+    <h3>Intelligent infrastructure</h3>
+    <p>Turning engineering data into useful insight for assessment and informed decisions.</p>
   </section>
   <section class="research-card">
     <h3>Structural resilience</h3>
-    <p>Computational assessment of structural performance, disaster impacts, and resilient infrastructure.</p>
+    <p>Supporting safer, more adaptive infrastructure through engineering analysis.</p>
   </section>
 </div>
 
@@ -49,7 +45,7 @@ My earlier work includes research on cement-waste reactivation at **UC Berkeley*
 
 ## Contact
 
-For academic inquiries, please email [runze@utexas.edu](mailto:runze@utexas.edu). You can also find me on [GitHub](https://github.com/RunzeGu) and [LinkedIn](https://www.linkedin.com/in/runzegu/).
+For academic inquiries, please email [runze@utexas.edu](mailto:runze@utexas.edu) or connect on [LinkedIn](https://www.linkedin.com/in/runzegu/).
 
 <div id="map-widget"></div>
 <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=a&amp;t=tt&amp;d=5gQcQ46esesHp9ppKs_29DbxCs2S9oc9tv9cxOutb4E&amp;co=2d78ad&amp;cmo=3acc3a&amp;cmn=ff5353&amp;ct=ffffff"></script>

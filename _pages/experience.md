@@ -57,4 +57,4 @@ Construction supervision and inspection, including site documentation for metro 
 
 Python, MATLAB, computer vision, machine learning, structural analysis, ETABS, AutoCAD, and Revit.
 
-[View my CV]({{ '/cv/' | relative_url }}) · [Get in touch](mailto:runze@utexas.edu)
+[Get in touch](mailto:runze@utexas.edu)
